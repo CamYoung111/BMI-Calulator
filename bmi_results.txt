@@ -1,0 +1,5 @@
+John Smith's height is 1.6 m and their weight is 62.3kgs and their BMI is 24.3. Overall they are an ideal weight.
+Jane Doe's height is 1.7 m and their weight is 73.3kgs and their BMI is 25.4. Overall they are overweight.
+Rebecca Jackson's height is 1.3 m and their weight is 44.0kgs and their BMI is 26.0. Overall they are overweight.
+John Doe's height is 1.4 m and their weight is 58.1kgs and their BMI is 29.6. Overall they are overweight.
+Stu Robinson's height is 1.6 m and their weight is 47.2kgs and their BMI is 18.4. Overall they are underweight.
